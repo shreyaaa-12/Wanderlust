@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Wanderlust
 # Wanderlust 🏡
 
